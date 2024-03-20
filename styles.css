@@ -91,6 +91,11 @@ body {
   animation: scroll-down 2s linear infinite;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .scroll__bottom a {
   text-decoration: none;
   display: flex;
